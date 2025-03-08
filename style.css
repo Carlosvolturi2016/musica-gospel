@@ -1,0 +1,83 @@
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    background: url(./fotos/dj.gif) no-repeat center center fixed; /* Ajuste para centralizar o fundo */
+    background-size: cover; /* Garante que a imagem de fundo cubra a tela */
+    background-color: rgba(123, 109, 104, 0.655);
+    color: rgba(235, 250, 19, 0.957);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 100vh; /* Garante que o conteúdo ocupe 100% da altura da viewport */
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Espaçamento nas bordas da página */
+    box-sizing: border-box; /* Inclui padding no cálculo total da largura e altura */
+}
+
+.radio-player {
+    background-color: #404243;
+    border-radius: 30px;
+    padding: 40px 30px; /* Aumentado o padding para mais espaço interno */
+    text-align: center;
+    width:380px;
+<<<<<<< HEAD
+    box-shadow: 0 4px 10px rgba(74, 72, 72, 0.945);
+=======
+    box-shadow: 0 4px 10px rgba(146, 141, 141, 0.945);
+>>>>>>> d75f97523f39e7498dc9e653ef2e1d8cb6968f57
+    box-sizing: border-box;
+}
+
+.cover-container {
+<<<<<<< HEAD
+    margin-bottom: 20px;
+}
+
+.cover-container img {
+    width: 80%;
+    height: auto;
+    border-radius: 30px;
+=======
+    margin-bottom: 40px;
+}
+
+.cover-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+>>>>>>> d75f97523f39e7498dc9e653ef2e1d8cb6968f57
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #b82626;
+    border: none; /* Removi a borda para manter o design mais limpo */
+    color: rgb(252, 248, 13);
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #e04040;
+}
+
+#current-track {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.som {
+    margin: 10px;
+    padding: 10px;
+    color: #ffe70b;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rádio Player</title>
+    <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+
+
+
+</head>
+<body>
+    <div class="radio-player">
+        <div class="cover-container">
+            <img id="album-cover" src="./fotos/" alt="Capa do Álbum">
+            <p class="font-effect-fire">Fogo para as Nações</p>
+        </div>
+        <div class="controls">
+            <button id="prev-btn"> Anterior</button>
+            <button id="play-btn"> Play</button>
+            <button id="next-btn"> Próxima</button>
+          
+           
+            
+        </div>
+        <div id="current-track">>Tocando: Música 1</div>
+
+       <div class="som"><label for="volume-slider">Volume</label>
+      
+        <input type="range" id="volume-slider" min="0" max="1" step="0.1" value="1">
+    </div>
+      
+
+
+    </div>
+
+    <div class="volume-control">
+        <label for="volume-slider"></label>
+        
+    </div>
+    
+
+    <audio id="audio-player" src="./musicas/"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
