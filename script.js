@@ -118,10 +118,20 @@ const tracks = [
     { src: './musicas/Dagom ou Jeová pregação.mp3', cover: './fotos/ab.avif', title: 'Dagom ou Jeová pregação' },
     { src: './musicas/Pastor Geziel Apocalipse.mp3', cover: './fotos/geziel.jpg', title: 'Apocalipse pregação' },
     { src: './musicas/Geziel gomes Óleo Sobre a cabeça.mp3', cover: './fotos/pastor geziel gomes.jpg', title: 'Óleo Sobre a cabeça pregação' },
-    { src: './musicas/Pr Gidel - Faz outra vez como na primeira vez.mp3', cover: './fotos/denovo.jpg', title: 'Faz outra vez como na primeira vez' },
-    { src: './musicas/Mostra-Me Tua Glória.mp3', cover: './fotos/orla.jpg', title: 'Mostra-Me Tua Glória' },
-    { src: './musicas/Fogo de Deus.mp3', cover: './fotos/arder.jpg', title: 'Fogo de Deus' },
-    { src: './musicas/Adoração Espontânea 6.mp3', cover: './fotos/casa na rocha.jpg', title: 'Adoração Espontânea 6' },
+    { src: './musicas/04 Há uma Saída.mp3', cover: './fotos/Shirley.avif', title: 'Há uma Saída' },
+    { src: './musicas/02 Fale com Jesus.mp3', cover: './fotos/fale.jpg', title: 'Fale com Jesus '},
+    { src: './musicas/01 Estou Contigo.mp3', cover: './fotos/contigo.jpg', title: 'Estou Contigo' },
+    { src: './musicas/Adoração Espontânea 1.mp3', cover: './fotos/adorar.jpg', title: 'Adoração Espontânea 1' },
+    { src: './musicas/08-Quando Desce o Espírito Santo.mp3', cover: './fotos/espirito.jpg', title: 'Quando Desce o Espírito Santo' },
+    { src: './musicas/05 - Nos braços do Pai.mp3', cover: './fotos/braços.jpg', title: 'Nos braços do Pai' },
+    { src: './musicas/04 - Invoca-me.mp3', cover: './fotos/orando.jpg', title: 'Invoca-me' },
+    { src: './musicas/03 - Apaixonado por Ti.mp3', cover: './fotos/apai.jpg', title: 'Apaixonado por Ti' },
+    { src: './musicas/06 - Me Esvaziar.mp3', cover: './fotos/esvaziar.jpg', title: 'Me Esvaziar' },
+    { src: './musicas/Pr Abilio Santana - Aviva a Tua Obra Ó Senhor! - Gideões! 2017.mp3', cover: './fotos/abilio.jpg', title: ' Aviva a Tua Obra Ó Senhor' },
+    { src: './musicas/ANJO, PÃO, BRASA E BOTIJA DE ÁGUA - PR ABILIO SANTANA (COMPLETO).mp3', cover: './fotos/1.jpg', title: ' ANJO, PÃO, BRASA E BOTIJA DE ÁGUA Pregação' },
+    { src: './musicas/CAMILA BARROS _ O TEMPO ESTÁ ACABANDO _ LAGOINHA ALPHAVILLE.mp3', cover: './fotos/camila.jpg', title: ' O TEMPO ESTÁ ACABANDO' },
+
+
 ];
 
 let currentTrackIndex = 0;
