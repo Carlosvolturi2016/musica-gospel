@@ -130,6 +130,15 @@ const tracks = [
     { src: './musicas/Pr Abilio Santana - Aviva a Tua Obra Ó Senhor! - Gideões! 2017.mp3', cover: './fotos/abilio.jpg', title: ' Aviva a Tua Obra Ó Senhor' },
     { src: './musicas/ANJO, PÃO, BRASA E BOTIJA DE ÁGUA - PR ABILIO SANTANA (COMPLETO).mp3', cover: './fotos/1.jpg', title: ' ANJO, PÃO, BRASA E BOTIJA DE ÁGUA Pregação' },
     { src: './musicas/CAMILA BARROS _ O TEMPO ESTÁ ACABANDO _ LAGOINHA ALPHAVILLE.mp3', cover: './fotos/camila.jpg', title: ' O TEMPO ESTÁ ACABANDO' },
+    { src: './musicas/Vou chegar mais longe _ Silmar Coelho.mp3', cover: './fotos/silmar1.jpg', title: ' Vou chegar mais longe _ Silmar Coelho' },
+    { src: './musicas/Coragem para viver - Pr. Silmar Coelho.mp3', cover: './fotos/silmar2.jpg', title: ' Coragem para viver - Pr. Silmar Coelho ' },
+    { src: './musicas/Pr.  Silmar Coelho - Não desista.mp3', cover: './fotos/silmar3.webp', title: ' Não desista _ Silmar Coelho' },
+    { src: 'musicas/DE ONDE VEIO A MADEIRA DA CRUZ.mp3', cover: 'fotos/adelry.jpg', title: 'DE ONDE VEIO A MADEIRA DA CRUZ' },
+
+
+
+
+
 
 
 ];
